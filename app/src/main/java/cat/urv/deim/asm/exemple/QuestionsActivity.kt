@@ -15,6 +15,7 @@ class QuestionsActivity : AppCompatActivity() {
             intent.setClass(this,QuestionsActivity::class.java)
             intent.putExtra("SCORE",5)
             this.startActivity(intent)
+            //jdgjdfhdj
         }
     }
 }
